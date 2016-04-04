@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'http://www.latimes.com/business/technology/la-fi-tn-turing-test-eugene-goostman-20140609-story.html'
-datePublished: '2016-04-04T18:59:30.244Z'
-dateModified: '2016-04-04T18:57:04.880Z'
+description: "Bot passes Turing Test; judges think it's a 13-year-old boy"
+datePublished: '2016-04-04T19:02:00.942Z'
+dateModified: '2016-04-04T18:59:51.285Z'
 title: First Draft Article
 author: []
 sourcePath: _posts/2016-04-04-eugene-goostman.md
