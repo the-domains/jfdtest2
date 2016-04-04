@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[jfdtest2]]></title>
         <description><![CDATA[jfdtest2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jfdtest2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 18:52:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 19:00:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jfdtest2/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>eugene goostman</p>]]></description>
-            <link>undefinedeugene-goostman/index.html</link>
+            <title><![CDATA[First Draft Article]]></title>
+            <description><![CDATA[<article><h1>First Draft Article</h1><p>Bot passes Turing Test; judges think it's a 13-year-old boy</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/311ef975-5ebf-4120-b44c-105c74190dc7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jfdtest2/eugene-goostman/index.html</link>
             <guid isPermaLink="false">7143093e-a1d7-42b9-b9f5-a58cd894a5ed</guid>
-            <pubDate>Mon, 04 Apr 2016 18:52:01 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 18:59:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
