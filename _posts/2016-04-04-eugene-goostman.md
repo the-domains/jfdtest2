@@ -1,28 +1,30 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: eugene goostman
-datePublished: '2016-04-04T18:52:01.791Z'
-dateModified: '2016-04-04T18:31:43.201Z'
-title: ''
+description: 'http://www.latimes.com/business/technology/la-fi-tn-turing-test-eugene-goostman-20140609-story.html'
+datePublished: '2016-04-04T18:59:30.244Z'
+dateModified: '2016-04-04T18:57:04.880Z'
+title: First Draft Article
 author: []
+sourcePath: _posts/2016-04-04-eugene-goostman.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-eugene-goostman.md
-published: true
 url: eugene-goostman/index.html
 _type: Article
 
 ---
-eugene goostman
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/311ef975-5ebf-4120-b44c-105c74190dc7.jpg)
+
+Bot passes Turing Test; judges think it's a 13-year-old boy
 
 http://www.latimes.com/business/technology/la-fi-tn-turing-test-eugene-goostman-20140609-story.html
 
