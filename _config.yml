@@ -1,28 +1,40 @@
-name: jfdtest2
 favicon: null
-layout_spectrum: 0.3080089387949556
-typography_spectrum: 0.4808115477208048
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: jfdtest2
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9888584853615612
-  lightness: 0.022496311692520976
-  saturation: 0.792985157109797
-  rhythmicContrast: 0.5078633341472596
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.792985157109797
+  brandStrength: 0.9175627
+  lightness: 0.02249631169252098
+  brandColors:
+    - '#1D1815'
+    - '#F1F5F9'
+    - '#ABBCBD'
+    - '#E9B39A'
+    - '#665C5C'
+  rhythmicContrast: 0.5078633341472596
+typography_spectrum: 0.4928315
+layout_spectrum: 0.3028674
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
